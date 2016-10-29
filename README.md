@@ -1,6 +1,6 @@
 # Nullchan
 
-P2P Imageboard engine for [ZeroNet](https://github.com/HelloZeroNet/ZeroNet)
+P2P Imageboard engine for [ZeroNet](https://github.com/HelloZeroNet/ZeroNet), featuring many of the features of centralized image boards, without the limitations. Currently uses optional files to reduce the number of images a user must cache. 
 
 ### Try it out
 
